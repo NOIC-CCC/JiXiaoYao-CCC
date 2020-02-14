@@ -23,5 +23,6 @@ public class Main {
         for (int i = 0; i < Data.length; i++)
                 System.out.print(Data[i][0]+" " + Data[i][1]+"\r\n");
         // write your code here
+        //
     }
 }
